@@ -1,4 +1,4 @@
-# Hospital Management System - CLI Setup Guide
+# Hospital Management CLI - Setup Guide
 
 ## Quick Setup Instructions
 
